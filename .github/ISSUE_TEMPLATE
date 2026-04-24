@@ -1,0 +1,15 @@
+As a customer,
+I need to create an account
+So I can use the service
+
+As a customer,
+I need to view my account
+So I can verify my information
+
+As an admin,
+I need to update customer records
+So data stays current
+
+As an admin,
+I need to delete accounts
+So obsolete records can be removed
