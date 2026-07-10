@@ -1,6 +1,6 @@
 ---
 name: user story
-about: this is a message to track the step by step progress of the project and what
+about: Create
   needs to get done.
 title: devops-capstone project''
 labels: ''
