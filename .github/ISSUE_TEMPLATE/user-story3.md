@@ -1,6 +1,6 @@
 ---
 name: user story3
-about: Step by step guide.
+about: Update.
 title: ''
 labels: ''
 assignees: ''
