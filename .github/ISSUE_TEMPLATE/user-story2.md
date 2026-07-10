@@ -1,6 +1,6 @@
 ---
 name: user story2
-about: step into the user story
+about: View
 title: ''
 labels: ''
 assignees: ''
