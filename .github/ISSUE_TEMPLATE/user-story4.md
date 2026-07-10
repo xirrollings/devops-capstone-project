@@ -1,6 +1,6 @@
 ---
 name: user story4
-about: A peak into the project gudelines
+about: Delete
 title: ''
 labels: ''
 assignees: ''
