@@ -1,9 +1,9 @@
 ---
 name: user story
-about: Describe this issue template's purpose here.
-title: ''
+about: this is a message to track the step by step progress of the project and what needs to get done.
+title: devops-capstone project''
 labels: ''
-assignees: ''
+assignees: me''
 
 ---
 
