@@ -30,3 +30,4 @@ httpie==3.2.1
 
 # securities
 Flask-Talisman
+Flask-Cors
